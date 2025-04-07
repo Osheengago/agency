@@ -16,14 +16,3 @@ Welcome to **MR.TRAVEL**, a responsive multi-page travel agency website designed
 - **CSS3** – Styling and layout (including flexbox and media queries)
 - **JavaScript** – Dynamic elements and interactivity
 
-## 📸 Screenshots
-
-> Add screenshots or a short demo GIF here if available.
-
-## 🚀 Getting Started
-
-To run the project locally:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Osheengago/agency.git
